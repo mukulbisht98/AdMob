@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdMob</string>
+    <string name="click_me">Interstitial.</string>
+    <string name="or_click_me">Rewarded.</string>
+</resources>

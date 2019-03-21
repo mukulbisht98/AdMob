@@ -11,8 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_marginTop="200dp"
+        android:layout_marginRight="20dp"
         android:background="@color/colorPrimary"
         android:padding="20dp"
         android:text="@string/click_me"
@@ -24,8 +24,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/but1"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_marginTop="90dp"
+        android:layout_marginRight="20dp"
         android:background="@color/colorPrimaryDark"
         android:padding="20dp"
         android:text="@string/or_click_me"
@@ -36,7 +36,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-5629116281807493/5840457574">
-    </com.google.android.gms.ads.AdView>
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
 </RelativeLayout>
